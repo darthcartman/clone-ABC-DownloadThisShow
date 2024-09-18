@@ -20,8 +20,8 @@ export default function NameOfShowAndLinks() {
         </a>
         <a className={styles.buttonBelowShowTitle}>
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" width="1em" height="1em" data-component="Mail" className={styles.icon}>
-            <path stroke="currentColor" stroke-width="2" d="M20.5 5h-17a.5.5 0 0 0-.5.5v13a.5.5 0 0 0 .5.5h17a.5.5 0 0 0 .5-.5v-13a.5.5 0 0 0-.5-.5Z"></path>
-            <path stroke="currentColor" stroke-width="2" d="m21 6.5-8.74 5.34a.5.5 0 0 1-.52 0L3 6.5"></path>
+            <path stroke="currentColor" strokeWidth="2" d="M20.5 5h-17a.5.5 0 0 0-.5.5v13a.5.5 0 0 0 .5.5h17a.5.5 0 0 0 .5-.5v-13a.5.5 0 0 0-.5-.5Z"></path>
+            <path stroke="currentColor" strokeWidth="2" d="m21 6.5-8.74 5.34a.5.5 0 0 1-.52 0L3 6.5"></path>
           </svg>
           Contact Us
         </a>
