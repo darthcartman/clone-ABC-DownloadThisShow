@@ -1,0 +1,15 @@
+.PresenterAndShowName {
+  padding-top: 3.5rem;
+  padding-left: 1rem;
+  /* padding-right: 1rem; */  /* De-comment when needed. */
+  /* max-width: 62rem; */
+  display: grid;
+  grid-template-columns: 18.3rem auto;
+  grid-template-areas: "image nameofshowandlinks";
+  --colour-assistant: #e7134b;
+}
+
+.broughtAndPresentedBy {
+  display: inline-flex;
+  gap: 3rem;
+}

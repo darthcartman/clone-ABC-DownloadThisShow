@@ -1,0 +1,10 @@
+.NameOfShowAndLinks {
+  /* grid-area: nameofshowandlinks; */
+}
+
+.nameOfShow {
+  font-size: 2rem;
+  line-height: 2.25rem;
+  /* margin-top: 0; */
+  font-weight: 800;
+}

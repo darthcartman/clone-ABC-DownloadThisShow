@@ -1,0 +1,24 @@
+.linkAnchor {
+  display: inline-flex;
+  align-items: center;
+}
+.linkText {
+  font-size: .75rem;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-weight: bold;
+  line-height: 1.25rem;
+  /* text-decoration: none; */
+}
+.linkArrow {
+  margin-left: .5rem;
+  font-size: 1.5rem;
+  /* line-height: 0; */
+  /* height: 1em; */
+  /* --colour-assistant: #e7134b; */
+  color: var(--colour-assistant);
+  --duration-small: 200ms;
+  --easing-decelerate: cubic-bezier(0, 0, 0.58, 1);
+  transition: transform var(--duration-small) var(--easing-decelerate);
+  transform: translateX(0);
+}

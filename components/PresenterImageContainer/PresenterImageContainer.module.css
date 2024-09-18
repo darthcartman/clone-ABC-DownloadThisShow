@@ -1,0 +1,15 @@
+.PresenterImageContainer {
+  /* display: block; */
+  margin-right: 1rem;
+  /* grid-area: image; */
+  /* width: calc(auto*1);
+  padding-bottom: 100%; */
+}
+
+.PresenterImage {
+  border-radius: .375rem;
+  /* overflow: hidden; */
+  max-width: 100%;
+  /* height: auto;
+  vertical-align: top; */
+}
