@@ -9,7 +9,14 @@
 .PresenterImage {
   border-radius: .375rem;
   /* overflow: hidden; */
-  max-width: 100%;
+  /* max-width: 100%; */
+  max-width: 70%;
   /* height: auto;
   vertical-align: top; */
+}
+
+@media (min-width: 48em) {
+  .PresenterImage {
+    max-width: 100%;
+  }
 }
