@@ -4,7 +4,7 @@ import MastheadActions from "../MastheadActions/MastheadActions";
 export default function BrandAndMastheadActions() {
   return (
     <div className={styles.BrandAndMastheadActions}>
-      <div>
+      <div className={styles.logoWrapper}>
         <a href="">
           <span>
             <svg className={styles.mastheadLogo} width="103" height="44" viewBox="0 0 103 44" fill="#636363" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" data-component="ABCListenLogo" preserveAspectRatio="xMinYMid meet">

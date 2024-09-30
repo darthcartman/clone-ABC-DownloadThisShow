@@ -4,6 +4,10 @@
   justify-content: space-between;
 }
 
+.logoWrapper {
+  padding: 1rem 1rem;
+}
+
 .mastheadLogo {
   color: #ed1d54;
 }

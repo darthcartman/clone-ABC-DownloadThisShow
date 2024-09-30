@@ -1,7 +1,7 @@
 .SearchBox {
   position: relative;
   width: 16rem;
-  .margin: .5rem;
+  margin: .5rem;
 /*  box-sizing: border-box; */
 }
 
